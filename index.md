@@ -2,4 +2,5 @@
 layout: default
 title: Home
 ---
-<h1>Samuel Higbee</h1>
+
+# Samuel Higbee
