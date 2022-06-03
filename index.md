@@ -8,3 +8,5 @@ layout: page
 # Welcome!
 
 I'm a Phd Student in Economics at the University of Chicago.  My research focuses on applications of machine learning and optimization in econometrics.
+
+This site is under construction.  Check beck for updates!
