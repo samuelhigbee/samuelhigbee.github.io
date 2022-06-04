@@ -4,4 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Coming Soon!
+# Working Papers
+Coming soon!
+
+# Publications
