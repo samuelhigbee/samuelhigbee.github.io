@@ -4,7 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-# Working Papers
-Coming soon!
+# Interests
+* Policy learning/treatment choice problems
+* Nonparametrics
+* Network data
+* Applications of optimal transport in econometrics
 
-# Publications
+# Working Papers
+Drafts coming soon!
+
