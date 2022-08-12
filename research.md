@@ -5,10 +5,10 @@ permalink: /research/
 ---
 
 # Interests
-* Policy learning/treatment choice problems
-* Nonparametrics
+* Estimating optimal treatment rules based on experimental data
+* Nonparametrics and inference via optimal transport
 * Network data
-* Applications of optimal transport in econometrics
+* Distributional/quantile methods
 
 # Working Papers
 Drafts coming soon!

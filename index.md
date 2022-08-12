@@ -9,6 +9,8 @@ layout: default
 
 ![image](assets/images/IMG_0170.jpg)
 
-I'm a Phd Student in Economics at the University of Chicago.  My interests are in decision problems in econometrics, partial identification, and microeconometrics generally.
+I'm a Phd Student in Economics at the University of Chicago.  My research is in econometrics.
 
-This site is under construction.  Check beck for updates!
+I'm especially interested in using data to solve decision problems in economic contexts, including treatment assignment, experimental design, and auction/market design.  I also study applications of optimal transport in econometrics and nonparametric modeling.
+
+I'm an amateur musician who plays jazz (poorly) and folk (somewhat better), mostly on guitar but dabbling in other instruments.
