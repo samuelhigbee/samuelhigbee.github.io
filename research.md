@@ -8,7 +8,6 @@ permalink: /research/
 * Estimating optimal treatment rules based on experimental data
 * Nonparametrics and inference via optimal transport
 * Network data
-* Distributional/quantile methods
 
 # Working Papers
 Drafts coming soon!
