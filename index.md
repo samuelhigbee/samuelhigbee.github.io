@@ -7,8 +7,10 @@ layout: default
 
 # Welcome!
 
-![image](assets/images/IMG_0170.jpg)
+<img src="assets/images/fall.JPG" alt="fall" width="300" style="float:left; padding-right:20px"/>
 
-I'm a Phd Student in Economics at the University of Chicago.  My research is in econometrics. 
+I'm a Phd student in Economics at the University of Chicago.  My research is in econometrics. 
+
 Some of my interests include treatment assignment problems, experimental design, network models, and optimal transport methods in econometrics.
+
 
