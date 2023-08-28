@@ -15,4 +15,4 @@ All positions are TA unless otherwise noted
 - Applied Regression Analysis (Fall 2021)
 
 ### Undergraduate
-- Econometrics (Spring 2022)
+- Econometrics (Spring 2022, Winter 2023)
