@@ -16,7 +16,7 @@ My research is in econometrics.
 Broadly, my interests lie in decision making in the face of uncertainty.
 Some of my work includes
 experimental design,
-decision problems in econometrics, 
+treatment choice, 
 and network models.
 
 I enjoy applying computational tools from optimization and machine learning to solve 
