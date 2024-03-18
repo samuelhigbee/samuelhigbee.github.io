@@ -6,12 +6,13 @@ permalink: /research/
 
 ## Interests
 * Experimental design
-* Estimating optimal treatment rules based on experimental data
+* Treatment choice and policy design under uncertainty
 * Nonparametric estimation and inference via optimal transport
-* Network data
 
 ## Working Papers
 **Policy Learning with New Treatments** [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
+
+*Revision requested at Quantitative Economics*
 
 I study the problem of a decision maker choosing a policy to allocate treatment to a 
 heterogeneous population on the basis of experimental data that includes only a subset 
