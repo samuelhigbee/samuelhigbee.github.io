@@ -19,6 +19,6 @@ experimental design,
 treatment choice, 
 and network models.
 
-I enjoy applying computational tools from optimization and machine learning to solve 
+I enjoy applying tools from optimization and machine learning to solve 
 econometric problems.
 
