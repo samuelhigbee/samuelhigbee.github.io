@@ -12,7 +12,7 @@ layout: base
 I'm a Phd student in Economics at the University of Chicago.
 My research is in econometrics. 
 
-** I am on the 2024-2025 academic job market. **
+**I am on the 2024-2025 academic job market.**
 
 Broadly, my interests lie in decision making in the face of uncertainty.
 Some of my work includes
