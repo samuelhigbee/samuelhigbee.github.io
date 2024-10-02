@@ -23,5 +23,5 @@ and network models.
 I enjoy applying tools from optimization and machine learning to solve 
 econometric problems.
 
-Contact me at samuelhigbee at uchicago dot edu.
+My email is samuelhigbee at uchicago dot edu.
 
