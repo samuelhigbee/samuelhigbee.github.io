@@ -4,13 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-## Interests
+Some of my interests include:
 * Experimental design
-* Treatment choice and policy design under uncertainty
+* Treatment choice and policy learning under uncertainty
 * Nonparametric estimation and inference via optimal transport
 
+## Job Market Paper
+**Experimental design for policy choice"
+
+*Draft coming soon*
+
 ## Working Papers
-**Policy Learning with New Treatments** [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
+**Policy learning with new treatments** [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
 
 *Revision requested at Quantitative Economics*
 
