@@ -10,7 +10,7 @@ Some of my interests include:
 * Nonparametric estimation and inference via optimal transport
 
 ## Job Market Paper
-**Experimental design for policy choice"
+**Experimental design for policy choice**
 
 *Draft coming soon*
 
