@@ -9,12 +9,12 @@ Some of my interests include:
 * Treatment choice and policy learning under uncertainty
 * Nonparametric estimation and inference via optimal transport
 
-## Job Market Paper
+## Job market paper
 **Experimental design for policy choice**
 
 *Draft coming soon*
 
-## Working Papers
+## Working papers
 **Policy learning with new treatments** [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
 
 *Revision requested at Quantitative Economics*
