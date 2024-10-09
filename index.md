@@ -7,7 +7,19 @@ layout: base
 
 # Welcome!
 
-<img src="assets/images/fall.JPG" alt="headshot" width="50%" style="float:left; padding-right:20px"/>
+<img src="assets/images/fall.JPG" alt="headshot" width="300" style="float:left; padding-right:20px"/>
+
+<style>
+  @media screen and (max-width: 768px) {
+    img {
+      float: none;
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+      padding: 0;
+    }
+  }
+</style>
 
 I'm a Phd student in Economics at the University of Chicago.
 My research is in econometrics.
