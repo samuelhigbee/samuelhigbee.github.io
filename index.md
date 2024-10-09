@@ -7,7 +7,7 @@ layout: base
 
 # Welcome!
 
-<img src="assets/images/fall.JPG" alt="headshot" width="300" style="float:left; padding-right:20px"/>
+<img src="assets/images/fall.JPG" alt="headshot" width="300" style="float:left; padding-right:20px; padding-bottom:20px"/>
 
 <style>
   @media screen and (max-width: 768px) {
