@@ -15,7 +15,7 @@ layout: base
       float: none;
       display: block;
       margin: 0 auto;
-      width: 100%;
+      width: 300;
       padding: 0;
     }
   }
@@ -25,10 +25,8 @@ I'm a Phd student in Economics at the University of Chicago.
 My research is in econometrics.
 
 Broadly, my interests lie in decision making in the face of uncertainty.
-Some of my work includes
-experimental design,
-treatment choice,
-and network models.
+My work focuses on
+experimental design and policy learning/treatment choice.
 I enjoy applying tools from optimization and machine learning to solve
 econometric problems.
 
