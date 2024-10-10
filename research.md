@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 ---
 
 Some of my interests include:
@@ -33,3 +32,22 @@ I apply my results to design targeted subsidies for electrical grid connections 
 Kenya, and estimate that 97% of the population should be given a treatment not implemented 
 in the experiment.
 
+## Work in progress
+
+**Distributionally robust optimal transport for program evaluation**
+
+*with [Omkar A. Katta](https://omkarakatta.netlify.app) 
+and [Guillaume Pouliot](https://sites.google.com/site/guillaumeallairepouliot/)*
+
+Many partially identified parameters in program evaluation settings
+are instances of the general Fréchet problem of bounding
+a functional of a joint distribution when only its marginals are observed.
+A leading example is the distribution of treatment effects.
+Using data on covariates can tighten the identified set,
+but doing so nonparametrically is difficult in practice.
+We propose a distributionally robust optimal transport solution
+to the Fréchet problem
+which nonparametrically incorporates covariate data
+and show it delivers valid inference on these parameters.
+
+<img src="assets/images/timp_fall_crop.PNG" width="100%" style="padding-top:20px; padding-bottom:20px"/>

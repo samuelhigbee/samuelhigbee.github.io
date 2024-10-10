@@ -7,7 +7,7 @@ layout: base
 
 # Welcome!
 
-<img src="assets/images/fall.JPG" alt="headshot" width="300" style="float:left; padding-right:20px; padding-bottom:20px"/>
+<img src="assets/images/samuel_higbee_fall.JPG" alt="headshot" width="300" style="float:left; padding-right:20px; padding-bottom:20px"/>
 
 <style>
   @media screen and (max-width: 768px) {
@@ -15,8 +15,10 @@ layout: base
       float: none;
       display: block;
       margin: 0 auto;
-      width: 300;
+      width: 100%;
+      max-width: 300px;
       padding: 0;
+      margin-bottom: 20px;
     }
   }
 </style>
