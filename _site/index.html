@@ -38,23 +38,25 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <h1 id="welcome">Welcome!</h1>
+
 <style>
   /* Styles for non-mobile (default) */
   img {
     float: left;
     padding-right: 20px;
+    padding-bottom: 20px;
     width: 300px;
   }
 
   /* Styles for mobile (screen width <= 768px) */
   @media screen and (max-width: 768px) {
     img {
-      float: none !important;         /* Ensure no floating on mobile */
-      display: block !important;      /* Make the image block-level */
-      margin: 0 auto !important;      /* Center the image */
-      width: 100% !important;         /* Make the image responsive */
-      max-width: 300px !important;    /* Limit image width to 300px */
-      margin-bottom: 20px !important; /* Add space below the image */
+      float: none;         /* Ensure no floating on mobile */
+      display: block;      /* Make the image block-level */
+      margin: 0 auto;      /* Center the image */
+      width: 100%;         /* Make the image responsive */
+      max-width: 300px;    /* Limit image width to 300px */
+      margin-bottom: 0 0 20px 0; /* Add space below the image */
     }
   }
 </style>

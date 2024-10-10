@@ -6,29 +6,30 @@ layout: base
 ---
 
 # Welcome!
+
 <style>
   /* Styles for non-mobile (default) */
   img {
     float: left;
     padding-right: 20px;
+    padding-bottom: 20px;
     width: 300px;
   }
 
   /* Styles for mobile (screen width <= 768px) */
   @media screen and (max-width: 768px) {
     img {
-      float: none !important;         /* Ensure no floating on mobile */
-      display: block !important;      /* Make the image block-level */
-      margin: 0 auto !important;      /* Center the image */
-      width: 100% !important;         /* Make the image responsive */
-      max-width: 300px !important;    /* Limit image width to 300px */
-      margin-bottom: 20px !important; /* Add space below the image */
+      float: none;         /* Ensure no floating on mobile */
+      display: block;      /* Make the image block-level */
+      margin: 0 auto;      /* Center the image */
+      width: 100%;         /* Make the image responsive */
+      max-width: 300px;    /* Limit image width to 300px */
+      margin-bottom: 0 0 20px 0; /* Add space below the image */
     }
   }
 </style>
 
 <img src="assets/images/samuel_higbee_fall.JPG" alt="headshot"/>
-
 
 I'm a Phd student in Economics at the University of Chicago.
 My research is in econometrics.
