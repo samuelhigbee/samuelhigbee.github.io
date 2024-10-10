@@ -45,9 +45,12 @@ a functional of a joint distribution when only its marginals are observed.
 A leading example is the distribution of treatment effects.
 Using data on covariates can tighten the identified set,
 but doing so nonparametrically is difficult in practice.
-We propose a distributionally robust optimal transport solution
-to the Fréchet problem
+We propose a distributionally robust optimal transport framework
+for inference on the solution to the Fréchet problem
 which nonparametrically incorporates covariate data
 and show it delivers valid inference on these parameters.
+We show our infinite-dimensional distributionally robust optimal transport
+problem has a finite-dimensional linear programming formulation,
+facilitating computation.
 
 <img src="assets/images/timp_fall_crop.png" width="100%" style="padding-top:20px; padding-bottom:20px"/>
