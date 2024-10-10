@@ -50,4 +50,4 @@ to the Fréchet problem
 which nonparametrically incorporates covariate data
 and show it delivers valid inference on these parameters.
 
-<img src="assets/images/timp_fall_crop.PNG" width="100%" style="padding-top:20px; padding-bottom:20px"/>
+<img src="assets/images/timp_fall_crop.png" width="100%" style="padding-top:20px; padding-bottom:20px"/>
