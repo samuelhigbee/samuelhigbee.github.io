@@ -18,7 +18,6 @@ layout: base
       width: 100%;
       max-width: 300px;
       padding: 0;
-      margin-bottom: 20px;
     }
   }
 </style>
