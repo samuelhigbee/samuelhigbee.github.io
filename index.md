@@ -11,7 +11,7 @@ layout: base
   img {
     float: left;
     padding-right: 20px;
-    width: 50%;
+    width: 300px;
   }
 
   /* Styles for mobile (screen width <= 768px) */
@@ -27,7 +27,7 @@ layout: base
   }
 </style>
 
-<img src="assets/images/fall.JPG" alt="headshot"/>
+<img src="assets/images/samuel_higbee_fall.JPG" alt="headshot"/>
 
 
 I'm a Phd student in Economics at the University of Chicago.
