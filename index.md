@@ -42,6 +42,7 @@ econometric problems.
 
 **I am on the 2024-2025 academic job market.**
 A draft of my job market paper will be posted here soon.
+My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 
 My email is <samuelhigbee@uchicago.edu>.
 

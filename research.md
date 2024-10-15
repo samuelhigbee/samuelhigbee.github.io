@@ -3,17 +3,42 @@ layout: page
 title: Research
 ---
 
-Some of my interests include:
-* Experimental design
-* Treatment choice and policy learning under uncertainty
-* Nonparametric estimation and inference via optimal transport
+My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 
 ## Job market paper
+
 **Experimental design for policy choice**
 
 *Draft coming soon*
 
+I study how to design experiments for the objective of 
+choosing optimal polices.
+An experimenter wants to choose a policy to maximize welfare 
+subject to budget or other policy constraints,
+but first has the opportunity to conduct an experiment to learn about 
+the optimal policy.
+The joint experimental design and policy choice problem is a
+dynamic optimization problem with a very high-dimensional state space,
+since the chosen policy depends on the realized experimental data.
+We propose a tractable low-dimensional approximation to the problem
+which depends only on posterior estimates of the marginal effect
+of the policy,
+and show this approximation yields an asymptotically optimal
+experiment and policy.
+The method applies to policies allocating discrete 
+as well as continuous treatments,
+such as cash transfers, prices, or tax credits,
+and also allows targeting the policy based on covariates.
+We demonstrate the method using the conditional cash transfer program
+Progresa,
+showing how to design an experiment to help choose a policy aimed at
+increasing graduation rates and reducing gender disparities in education.
+Compared to the original Progresa experiment,
+the optimal experiment requires only one quarter as many observations
+to obtain equally effective policies.
+
 ## Working papers
+
 **Policy learning with new treatments** [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
 
 *Revision requested at Quantitative Economics*
