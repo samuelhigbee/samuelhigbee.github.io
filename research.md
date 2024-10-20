@@ -20,7 +20,7 @@ the optimal policy.
 The joint experimental design and policy choice problem is a
 dynamic optimization problem with a very high-dimensional state space,
 since the chosen policy depends on the realized experimental data.
-We propose a tractable low-dimensional approximation to the problem
+I propose a tractable low-dimensional approximation to the problem
 which depends only on posterior estimates of the marginal effect
 of the policy,
 and show this approximation yields an asymptotically optimal
@@ -29,7 +29,7 @@ The method applies to policies allocating discrete
 as well as continuous treatments,
 such as cash transfers, prices, or tax credits,
 and also allows targeting the policy based on covariates.
-We demonstrate the method using the conditional cash transfer program
+I demonstrate the method using the conditional cash transfer program
 Progresa,
 showing how to design an experiment to help choose a policy aimed at
 increasing graduation rates and reducing gender disparities in education.
