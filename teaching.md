@@ -16,4 +16,4 @@ All positions are TA unless otherwise noted
 ### Undergraduate
 - Econometrics (Spring 2022, Winter 2023)
 
-<img src="assets/images/zion_crop.JPG" width="100%" style="padding-top:20px; padding-bottom:20px"/>
+<img src="assets/images/zion_crop.jpg" width="100%" style="padding-top:20px; padding-bottom:20px"/>
