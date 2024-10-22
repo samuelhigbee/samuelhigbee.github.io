@@ -29,7 +29,7 @@ layout: base
   }
 </style>
 
-<img src="assets/images/samuel_higbee_fall.JPG" alt="headshot"/>
+<img src="assets/headshots/Sam-011-2.jpg" alt="headshot"/>
 
 I'm a Phd student in Economics at the University of Chicago.
 My research is in econometrics.
