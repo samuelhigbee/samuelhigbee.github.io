@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Blog
+title: Miscellanea
 permalink: /blog/
 ---

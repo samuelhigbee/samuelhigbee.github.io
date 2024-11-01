@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-All positions are TA unless otherwise noted
+I have been a TA for the following courses at the University of Chicago.
 
 ### PhD
 - Optimization-Conscious Econometrics (Spring 2023)
