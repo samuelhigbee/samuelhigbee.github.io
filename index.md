@@ -39,10 +39,12 @@ My work focuses on
 experimental design and policy learning/treatment choice.
 I enjoy applying tools from optimization and machine learning to solve
 econometric problems.
-
-**I am on the 2024-2025 academic job market.**
 My job market paper is available [here](/assets/papers/higbee_samuel_jmp.pdf).
 My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
+
+I will be joining the Department of Economics at
+the University of North Carolina at Chapel Hill 
+in July 2025.
 
 My email is <samuelhigbee@uchicago.edu>.
 
