@@ -29,22 +29,18 @@ layout: base
   }
 </style>
 
-<img src="assets/headshots/Sam-011-2.jpg" alt="headshot"/>
+<img src="assets/headshots/DSC01333_v2.jpg" alt="headshot"/>
 
-I'm a Phd student in Economics at the University of Chicago.
-My research is in econometrics.
+I am an Assistant Professor of Economics at the University of North Carolina at
+Chapel Hill.
 
-Broadly, my interests lie in decision making in the face of uncertainty.
-My work focuses on
-experimental design and policy learning/treatment choice.
+My research is in econometrics, 
+and focuses on making economic policy decisions in the face of uncertainty.  
+My work includes experimental design, 
+analysis of treatment effect heterogeneity, 
+and estimation of personalized treatment rules and optimal policies.
 I enjoy applying tools from optimization and machine learning to solve
 econometric problems.
-My job market paper is available [here](/assets/papers/higbee_samuel_jmp.pdf).
-My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 
-I will be joining the Department of Economics at
-the University of North Carolina at Chapel Hill 
-in July 2025.
-
-My email is <samuelhigbee@uchicago.edu>.
+My email is <sdhigbee@unc.edu>.
 
