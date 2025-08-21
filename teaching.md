@@ -17,3 +17,5 @@ I have been a TA for the following courses at the University of Chicago.
 - Econometrics (Spring 2022, Winter 2023)
 
 <img src="assets/images/chicago_crop.jpg" width="100%" style="padding-top:20px; padding-bottom:20px"/>
+
+*Chicago from Northerly Island.*

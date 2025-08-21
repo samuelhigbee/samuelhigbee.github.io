@@ -42,5 +42,6 @@ and estimation of personalized treatment rules and optimal policies.
 I enjoy applying tools from optimization and machine learning to solve
 econometric problems.
 
-My email is <sdhigbee@unc.edu>.
+My cv is [here](assets/cv/samuelhigbee_cv.pdf).
+You can reach me at <sdhigbee@unc.edu>.
 

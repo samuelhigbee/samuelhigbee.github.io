@@ -41,7 +41,7 @@ to obtain equally effective policies.
 **Policy learning with new treatments** 
 [(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
 
-*Revision requested at Quantitative Economics*
+*Conditionally accepted at Quantitative Economics*
 
 I study the problem of a decision maker choosing a policy to allocate treatment to a 
 heterogeneous population on the basis of experimental data that includes only a subset 
@@ -79,3 +79,5 @@ problem has a finite-dimensional linear programming formulation,
 facilitating computation.
 
 <img src="assets/images/timp_fall_crop.png" width="100%" style="padding-top:20px; padding-bottom:20px"/>
+
+*Mount Timpanogos from Kyhv Peak. Credit: Emma Higbee*
