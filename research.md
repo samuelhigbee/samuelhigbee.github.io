@@ -38,25 +38,6 @@ Compared to the original Progresa experiment,
 the optimal experiment requires only one quarter as many observations
 to obtain equally effective policies.
 
-**Policy learning with new treatments** 
-[(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
-
-*Conditionally accepted at Quantitative Economics*
-
-I study the problem of a decision maker choosing a policy to allocate treatment to a 
-heterogeneous population on the basis of experimental data that includes only a subset 
-of possible treatment values.
-The effects of new treatments are partially identified based on shape restrictions on 
-treatment response.
-I propose solving an empirical minimax regret problem to estimate the policy and show 
-it has a tractable linear- and integer-programming formulation.
-I prove the maximum regret of the estimator converges to the lowest possible maximum 
-regret at the rate at which heterogeneous treatment effects can be estimated in the 
-experimental data or N^(-1/2), whichever is slower.
-I apply my results to design targeted subsidies for electrical grid connections in rural 
-Kenya, and estimate that 97% of the population should be given a treatment not implemented 
-in the experiment.
-
 ## Work in progress
 
 **Distributionally robust optimal transport for program evaluation**
@@ -77,6 +58,27 @@ and show it delivers valid inference on these parameters.
 We show our infinite-dimensional distributionally robust optimal transport
 problem has a finite-dimensional linear programming formulation,
 facilitating computation.
+
+## Published and accepted papers
+
+**Policy learning with new treatments** 
+[(pdf)]({{ site.url }}/assets/papers/policy_learning_new.pdf)
+
+*Accepted at Quantitative Economics*
+
+I study the problem of a decision maker choosing a policy to allocate treatment to a 
+heterogeneous population on the basis of experimental data that includes only a subset 
+of possible treatment values.
+The effects of new treatments are partially identified based on shape restrictions on 
+treatment response.
+I propose solving an empirical minimax regret problem to estimate the policy and show 
+it has a tractable linear- and integer-programming formulation.
+I prove the maximum regret of the estimator converges to the lowest possible maximum 
+regret at the rate at which heterogeneous treatment effects can be estimated in the 
+experimental data or N^(-1/2), whichever is slower.
+I apply my results to design targeted subsidies for electrical grid connections in rural 
+Kenya, and estimate that 97% of the population should be given a treatment not implemented 
+in the experiment.
 
 <img src="assets/images/timp_fall_crop.png" width="100%" style="padding-top:20px; padding-bottom:20px"/>
 
