@@ -9,11 +9,11 @@ My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 ## Working papers
 
 **Experimental design for policy choice**
-<!---
 [(pdf)]({{ site.url }}/assets/papers/higbee_samuel_jmp.pdf)
--->
 
+<!---
 *New draft coming soon*
+-->
 
 I study how to design experiments for the objective of 
 choosing optimal polices.
