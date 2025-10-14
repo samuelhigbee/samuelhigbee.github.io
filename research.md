@@ -16,7 +16,7 @@ My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 -->
 
 I study how to design experiments for the objective of 
-choosing optimal polices.
+choosing optimal policies.
 An experimenter wants to choose a policy to maximize welfare
 subject to budget or other policy constraints.
 The effects of counterfactual policies are described by a
