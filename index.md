@@ -10,8 +10,8 @@ layout: base
 <style>
   /* Styles for non-mobile (default) */
   img {
-    float: left;
-    padding-right: 20px;
+    float: right;
+    padding-left: 20px;
     padding-bottom: 20px;
     width: 300px;
   }
@@ -24,7 +24,7 @@ layout: base
       margin: 0 auto;      /* Center the image */
       width: 100%;         /* Make the image responsive */
       max-width: 300px;    /* Limit image width to 300px */
-      margin-bottom: 0 0 20px 0; /* Add space below the image */
+      margin-bottom: 20px; /* Add space below the image */
     }
   }
 </style>
@@ -42,6 +42,5 @@ and estimation of personalized treatment rules and optimal policies.
 I enjoy applying tools from optimization and machine learning to solve
 econometric problems.
 
-My cv is [here](assets/cv/samuelhigbee_cv.pdf).
-You can reach me at <sdhigbee@unc.edu>.
-
+- **CV:** [PDF](assets/cv/samuelhigbee_cv.pdf)
+- **Contact:** <sdhigbee@unc.edu>
