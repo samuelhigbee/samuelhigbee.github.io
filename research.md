@@ -59,11 +59,7 @@ I estimate optimal policies when experiments cover only a subset of possible tre
 
 <details>
 <summary>Abstract</summary>
-I study the problem of a decision maker choosing a policy to allocate treatment to a heterogeneous population on the basis of experimental data that includes only a subset of possible treatment values.
-The effects of new treatments are partially identified based on shape restrictions on treatment response.
-I propose solving an empirical minimax regret problem to estimate the policy and show it has a tractable linear- and integer-programming formulation.
-I prove the maximum regret of the estimator converges to the lowest possible maximum regret at the rate at which heterogeneous treatment effects can be estimated in the experimental data or N^(-1/2), whichever is slower.
-I apply my results to design targeted subsidies for electrical grid connections in rural Kenya, and estimate that 97% of the population should be given a treatment not implemented in the experiment.
+I study the problem of a decision maker choosing a policy that allocates treatment to a heterogeneous population on the basis of experimental data that includes only a subset of possible treatment values. The effects of new treatments are partially identified by shape restrictions on treatment response. Policies are compared according to the minimax regret criterion, and I show that the empirical analog of the population decision problem has a tractable linear‐ and integer‐programming formulation. I prove that the rate at which the maximum regret of the estimated policy converges to the lowest possible maximum regret is the maximum of N −1/2 and the rate at which conditional average treatment effects are estimated in the experimental data. In an application to designing targeted subsidies for electrical grid connections in rural Kenya, I find that nearly the entire population should be given a treatment not implemented in the experiment, reducing maximum regret by over 60% compared to the policy that restricts to the treatments implemented in the experiment.
 </details>
 
 <img src="assets/images/timp_fall_crop.png" width="100%" style="padding-top:20px; padding-bottom:20px"/>
