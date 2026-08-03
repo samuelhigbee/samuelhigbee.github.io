@@ -11,9 +11,7 @@ My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 **Experimental design for policy choice**
 [(pdf)](/assets/papers/higbee_samuel_jmp.pdf)
 
-<!---
 *New draft coming soon*
--->
 
 I design experiments that directly inform better policy decisions in the face of constraints.
 
