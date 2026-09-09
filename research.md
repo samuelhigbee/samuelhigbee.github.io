@@ -11,21 +11,26 @@ My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 **Experimental design for policy choice**
 [(pdf)](/assets/papers/higbee_samuel_jmp.pdf)
 
-*New draft coming soon*
+*New version!*
 
 I design experiments that directly inform better policy decisions in the face of constraints.
 
 <details>
 <summary>Abstract</summary>
-I study how to design experiments for the objective of choosing optimal policies.
-An experimenter wants to choose a policy to maximize welfare subject to budget or other policy constraints.
-The effects of counterfactual policies are described by a structural econometric model governed by an unknown parameter.
-The experimenter has access to some pilot data, and has the opportunity to collect additional data through an experiment.
-The joint experimental design and policy choice problem is a dynamic optimization problem with a very high-dimensional state space, since the chosen policy depends on the realized data.
-I propose a low-dimensional approximation to the solution and show it is asymptotically optimal under Bayes expected welfare.
-The method applies to policies allocating discrete as well as continuous treatments, such as cash transfers, prices, or tax credits, and also allows targeting the policy based on covariates.
-I demonstrate the method using the conditional cash transfer program Progresa, showing how to design an experiment to help choose a policy aimed at increasing graduation rates and reducing gender disparities in education.
-Compared to the original Progresa experiment, the optimal experiment requires only one quarter as many observations to obtain equally effective policies.
+We show how to optimally design experiments when the
+resulting data will be used to choose a welfare-maximizing policy subject to constraints.
+A decision maker seeks to maximize Bayes expected welfare by choosing a policy
+whose effects depend on an unknown finite-dimensional parameter.
+The decision maker has access to a first wave of experimental data with a fixed design
+but may choose the design of a second wave that will be collected before choosing the policy.
+The resulting experimental design--policy choice problem involves a
+dynamic program with a very high-dimensional state and is generally intractable
+in finite samples.
+We propose a tractable approximation based on the limit experiment
+and show it is asymptotically optimal using a new asymptotic representation
+theorem for adaptive experiments with continuous treatments.
+We apply the method to a conditional cash transfer experiment and demonstrate the potential for large
+gains from tailoring the experiment to the policy choice.
 </details>
 
 ## Work in progress
