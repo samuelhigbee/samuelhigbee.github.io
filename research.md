@@ -9,7 +9,7 @@ My CV is available [here](assets/cv/samuelhigbee_cv.pdf).
 ## Working papers
 
 **Experimental design for policy choice**
-[(pdf)](/assets/papers/higbee_samuel_jmp.pdf)
+[(pdf)](/assets/papers/higbee_samuel_jmp.pdf) [(arXiv)](https://arxiv.org/abs/2609.10971)
 
 *New version!*
 
@@ -54,7 +54,7 @@ We show our infinite-dimensional distributionally robust optimal transport probl
 ## Published and accepted papers
 
 **Policy learning with new treatments** 
-[(pdf)](/assets/papers/policy_learning_new.pdf)
+[(pdf)](/assets/papers/policy_learning_new.pdf) [(arXiv)](https://arxiv.org/abs/2210.04703)
 
 *Quantitative Economics, 16.4 (2025): 1409-1456*
 
