@@ -34,13 +34,12 @@ layout: base
 I am an Assistant Professor of Economics at the University of North Carolina at
 Chapel Hill.
 
-My research is in econometrics, 
-and focuses on making economic policy decisions in the face of uncertainty.  
-My work includes experimental design, 
-analysis of treatment effect heterogeneity, 
-and estimation of personalized treatment rules and optimal policies.
-I enjoy applying tools from optimization and machine learning to solve
-econometric problems.
+My research is in econometrics,
+with a focus on making economic policy decisions in the face of uncertainty.
+I develop methods for learning optimal policies with limited data,
+for designing experiments around policy objectives,
+and for identification and inference of heterogeneous treatment effects.
+My work draws on decision theory, optimization, and machine learning.
 
 - **CV:** [PDF](assets/cv/samuelhigbee_cv.pdf)
 - **Contact:** <sdhigbee@unc.edu>
