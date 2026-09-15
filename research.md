@@ -54,7 +54,7 @@ We show our infinite-dimensional distributionally robust optimal transport probl
 ## Published and accepted papers
 
 **Policy learning with new treatments** 
-[(pdf)](/assets/papers/policy_learning_new.pdf) [(arXiv)](https://arxiv.org/abs/2210.04703)
+[(pdf)](/assets/papers/policy_learning_new.pdf) [(arXiv)](https://arxiv.org/abs/2210.04703) [(published version)](https://doi.org/10.3982/QE2477)
 
 *Quantitative Economics, 16.4 (2025): 1409-1456*
 
